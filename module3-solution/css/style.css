@@ -1,10 +1,12 @@
 @font-face {
   font-family: 'Indie Flower', cursive;
   font-family: 'Harry potter';
+  font-family: 'Glyphicons Halflings';
 }
 
 * {
     font-family: 'Indie Flower', cursive;
+    font-family: 'Glyphicons Halflings';
 }
 
 body {
